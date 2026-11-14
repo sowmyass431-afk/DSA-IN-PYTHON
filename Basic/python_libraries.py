@@ -23,7 +23,7 @@
 | Set   |       `{10, 20, 30}` | Unique elements,unordered |
 | Dictionary |  `{"a": 10}`     | Key-value pairs ,ordered|
 '''
-
+# '''List'''.........................
 # # a=[2,3,4,5,5,6,6,6,2,2,9,2,2,2,3,7,9]
 # # x=10
 # # #appending
